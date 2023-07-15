@@ -12,7 +12,8 @@ Using KNIME I could split the combined CSV files into three tables and really ta
 In this new repository you find the SQL code writen in MySQL, a .pdf file where I place the outcome of my queries and another .pdf file where I explain the steps taken in KNIME to create the tables used in this analysis.
 
 I learned a lot in the past weeks and I'm happy I can showcase my new skills in this bike-share_2.0 which you find here: https://github.com/pcargolo/bike_share_2.0  
-The first case study can be found in this other link and it's very satisfying to me to see the improvement: https://github.com/pcargolo/bike-share
+The first case study can be found in this other link and it's very satisfying to me to see the improvement: https://github.com/pcargolo/bike-share  
+The data visualization in Tableau is kept the same as in the first run: https://public.tableau.com/app/profile/paulo.argolo/viz/Cyclistbikeshare-CaseStudy/Dashboard2
 
 I'm looking forward to what I can further unlock with my next steps in my Data Journey.  
 If you have any feedback please get in touch with me and I'll be happy to connect: https://www.linkedin.com/in/pauloargolo/
